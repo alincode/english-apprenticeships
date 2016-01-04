@@ -4,4 +4,6 @@
 * [語言學校](school/README.md)
   * [選擇學校](school/choose-school.md)
   * [行前準備](school/preparation.md)
+* [整理筆記](note/README.md)
+  * [縮寫](note/short-for.md)
 * [網路資源](resource.md)
